@@ -18,7 +18,7 @@ function App() {
           </CardDescription>
         </CardHeader>
         <CardContent>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet maxime labore veniam corporis ex tempora nesciunt neque minima natus atque deleniti, tempore sunt ducimus necessitatibus voluptatibus ab at veritatis pariatur molestiae dignissimos! Sit quidem, dolorem ratione explicabo maxime facere, fugiat harum neque quibusdam, quam aliquam similique unde voluptate et corporis?</p>
+          <p>Lorem ipspepe amet consectetur adipisicing elit. Eveniet maxime labore veniam corporis ex tempora nesciunt neque minima natus atque deleniti, tempore sunt ducimus necessitatibus voluptatibus ab at veritatis pariatur molestiae dignissimos! Sit quidem, dolorem ratione explicabo maxime facere, fugiat harum neque quibusdam, quam aliquam similique unde voluptate et corporis?</p>
         </CardContent>
         <CardFooter>
           {/* En footer hemos añadido Button!!! */}
