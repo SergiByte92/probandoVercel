@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "useDefineForClassFields": true,
+    "lib": ["ES2022", "DOM", "DOM.Iterable"],
+    "module": "ESNext",
+    "jsx": "react-jsx",
+ 
+ 
+    /* Bundler mode */
+    "moduleResolution": "bundler",
+    "allowImportingTsExtensions": true,
+    "verbatimModuleSyntax": true,
+    "moduleDetection": "force",
+ 
+ 
+    /* Calidad */
+    "strict": true,
+    "skipLibCheck": true,
+    "noEmit": true,
+ 
+ 
+    /* Alias @ */
+    "baseUrl": ".",
+    "paths": { "@/*": ["./src/*"] },
+ 
+ 
+    /* Tipos de Vite */
+    "types": ["vite/client"]
+  },
+  "include": ["src"]
+}
